@@ -9,10 +9,11 @@ A real-time hand gesture recognition system that uses computer vision to solve m
 - AI-powered mathematical problem solving
 - User-friendly Streamlit interface
 - Split-screen display showing both camera feed and AI responses
+video link: https://youtu.be/1sSwAm0XCYw?si=GCgXWOh10lLDPb7-
 
 ## Requirements
 
-- Python 3.8 or python 3.10
+- Python 3.11.0
 - Streamlit
 - OpenCV
 - NumPy
